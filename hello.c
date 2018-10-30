@@ -1,0 +1,4 @@
+stoid<>
+{
+  print("HELLO WORLD")
+  }
