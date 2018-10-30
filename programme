@@ -1,0 +1,6 @@
+#This programme prints hello world
+
+print("hello world")
+create a list of apps using list function in python print only app without version'v'
+list["android","shareit","android v2.0"]
+print("list")
